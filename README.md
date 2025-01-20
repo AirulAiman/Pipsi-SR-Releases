@@ -37,6 +37,7 @@
 - Auto Talk
 - Auto Puzzle
 - Dumb Enemies
+- Infinite Techniques
 
 #### Visuals
 
@@ -44,6 +45,8 @@
 - Peeking
 - Uid Changer
 - Fps Indicator
+- Free Camera
+- Fov Changer
 
 #### Misc
 
